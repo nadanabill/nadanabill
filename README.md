@@ -2,9 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nada+Nabil!+🤓;" />
 </div>
 
-<br>
-
-## 🙋‍♂️ About Me:
+<br>🙋‍♀️ About Me:
 
 - 🔭 I’m currently working as a **Mobile Application Developer**.
 
@@ -12,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/nadanaboll?tab=repositories)**.
+- 👩‍💻 All of my projects are available at **[My Repository](https://github.com/nadanabill?tab=repositories)**.
 
 <br>
 <div align="center">

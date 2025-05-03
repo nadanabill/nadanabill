@@ -55,30 +55,6 @@ I have worked on many real-world mobile apps using Flutter. Some of my main proj
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-<br>
-
-## 💼 Work Experience
-
-### 📱 Mobile Developer – *Taslema*  
-**Nov 2023 – Present**  
-- Maintain, optimize, and deploy mobile applications regularly.
-- Fix bugs and enhance performance for a better user experience.
-
-### 🧑‍🏫 Mobile App Instructor – *Creativa Minya by Athar & TIEC*  
-**Feb 2023 – Present**  
-- Trained over **300+ students** in Flutter and mobile app development.
-- Conducted **26+ workshops** on practical app development topics.
-
-### 📱 Freelance Flutter Developer – *Dental House*  
-**Sep 2022 – Feb 2023**  
-- Built a healthcare communication app from scratch using Flutter.
-- Implemented chat functionality, authentication, and payment methods.
-
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
 <br> 
 
 
